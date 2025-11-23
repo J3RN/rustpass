@@ -1,0 +1,10 @@
+[package]
+name = "rustpass"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.33"
+egui = "0.33"
+keepass = "0.8"
+rfd = "0.15"
